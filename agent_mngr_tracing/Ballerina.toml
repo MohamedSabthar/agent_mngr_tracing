@@ -1,0 +1,9 @@
+[package]
+org = "admin"
+name = "agent_mngr_tracing"
+version = "0.1.0"
+distribution = "2201.14.1"
+title = "agent-mngr-tracing"
+
+[build-options]
+sticky = true

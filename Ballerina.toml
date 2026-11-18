@@ -1,0 +1,3 @@
+[workspace]
+title = "agent-mngr-tracing"
+packages = ["agent_mngr_tracing"]
